@@ -7,6 +7,9 @@ import json
 #哈哈哈
 #插件使用
 
+#哥们又切换回主支了
+#天下无敌
+
 class PoemDownloaderApp:
     def __init__(self, root):
         self.root = root
