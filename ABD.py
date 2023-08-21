@@ -10,15 +10,8 @@ import json
 #哥们又切换回主支了
 #天下无敌
 
-<<<<<<< HEAD
-#哎呀,线上分支出问题了,看我紧急建立一个分支进行修改
-#哼哧哼哧
-
-#紧急问题问题
-=======
 #关于自己iss53的修改
 #关于iss53的第二次修改
->>>>>>> iss53
 
 class PoemDownloaderApp:
     def __init__(self, root):
