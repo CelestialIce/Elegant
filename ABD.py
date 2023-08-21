@@ -10,6 +10,8 @@ import json
 #哥们又切换回主支了
 #天下无敌
 
+#关于自己iss53的修改
+
 class PoemDownloaderApp:
     def __init__(self, root):
         self.root = root
