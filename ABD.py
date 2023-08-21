@@ -4,6 +4,9 @@ import requests
 from lxml import etree
 import json
 
+#哈哈哈
+#插件使用
+
 class PoemDownloaderApp:
     def __init__(self, root):
         self.root = root
